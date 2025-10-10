@@ -5,4 +5,9 @@ This repository provides information about the scripts, data, and outputs genera
 
 ---
 
-### List of files provided here
+### Contact information of corresponding authors
+
+Gustavo Sanchez (gus.sanchez.s89@gmail.com)
+Daniel S. Rokhsar (dsrokhsar@gmail.com) 
+
+
