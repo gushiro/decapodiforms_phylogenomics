@@ -10,6 +10,7 @@ DOI: 10.1038/s41559-026-03009-1
 ### Contact information of corresponding authors
 
 Gustavo Sanchez (gus.sanchez.s89@gmail.com)
+
 Dan Rokhsar (dsrokhsar@gmail.com)
 
 
