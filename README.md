@@ -1,7 +1,7 @@
 # Phylogenomics of decapodiform cephalopods
 This repository provides information about the scripts, data, and outputs generated for:
 
-**Gustavo Sanchez**, et al., *Rapid mid-Cretaceous diversification of squid and cuttlefish preceded radiation into coastal niches.*
+**Sanchez, G.**, Fernández-Álvarez, F.Á., Bernal, A. et al. Rapid mid-Cretaceous diversification of squid and cuttlefish preceded radiation into coastal niches. *Nat Ecol Evol* (2026).
 
 DOI: 10.1038/s41559-026-03009-1
 
