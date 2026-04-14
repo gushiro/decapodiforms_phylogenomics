@@ -17,4 +17,4 @@ Dan Rokhsar (dsrokhsar@gmail.com)
 
 ### Dataset of newly sequenced genomes
 
-figshare link: 10.6084/m9.figshare.32005383](https://doi.org/10.6084/m9.figshare.32005383
+figshare link: [10.6084/m9.figshare.32005383](https://doi.org/10.6084/m9.figshare.32005383](https://doi.org/10.6084/m9.figshare.32005383)
